@@ -1,0 +1,26 @@
+.result_wrapper {
+    width: 1120px;
+    margin: 0 auto ;
+    position: relative;
+    text-align: center;
+    padding-bottom: 80px;
+    z-index: 2;
+}
+.result_wrapper img {
+    position: absolute;
+    bottom: 120px;
+    right: 20px;
+    z-index: -1;
+}
+.answer {
+    min-height: 100px;
+    padding:24px;
+    z-index: 56666;
+    background: #422ED4;
+    box-shadow: 0px 100px 80px rgba(80, 76, 103, 0.07), 0px 0px 10.0172px rgba(80, 76, 103, 0.035);
+    border-radius: 25px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 150%;
+    color: #FFFFFF;
+}

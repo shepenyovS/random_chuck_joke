@@ -1,0 +1,21 @@
+.header_wrapper {
+    background-color: #422ED4;
+    margin-bottom: 60px;
+}
+.header {
+  width: 1120px;
+  margin: 0 auto;              
+}
+.header span {
+  display: block;
+ 
+}
+.header_logo{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.header_logo img {
+    padding: 8px;
+}
+
